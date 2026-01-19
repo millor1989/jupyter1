@@ -1,0 +1,2 @@
+# 忽略 Jupyter Notebook 的自动保存目录
+.ipynb_checkpoints/
